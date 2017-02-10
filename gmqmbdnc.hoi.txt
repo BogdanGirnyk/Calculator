@@ -1,0 +1,59 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .vs/Calculator/v14/.suo
+#	new file:   .vs/config/applicationhost.config
+#	new file:   Calculator
+#	new file:   Calculator.sln
+#	new file:   digital-7.ttf
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0.nupkg
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/build/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.install.xdt
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.uninstall.xdt
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/init.ps1
+#	new file:   packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/uninstall.ps1
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/Microsoft.Net.Compilers.1.0.0.nupkg
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/ThirdPartyNotices.rtf
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/build/Microsoft.Net.Compilers.props
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CSharp.Core.targets
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.CSharp.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.VisualBasic.Core.targets
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/System.Collections.Immutable.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/System.Reflection.Metadata.dll
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe.config
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/csc.exe
+#	new file:   packages/Microsoft.Net.Compilers.1.0.0/tools/vbc.exe
+#	new file:   pb/MainForm.aspx
+#	new file:   pb/PrecompiledApp.config
+#	new file:   pb/Web.config
+#	new file:   pb/bin/App_global.asax.compiled
+#	new file:   pb/bin/App_global.asax.dll
+#	new file:   pb/bin/Calculator.dll
+#	new file:   pb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+#	new file:   pb/bin/roslyn/Microsoft.CSharp.Core.targets
+#	new file:   pb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+#	new file:   pb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+#	new file:   pb/bin/roslyn/Microsoft.CodeAnalysis.dll
+#	new file:   pb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+#	new file:   pb/bin/roslyn/System.Collections.Immutable.dll
+#	new file:   pb/bin/roslyn/System.Reflection.Metadata.dll
+#	new file:   pb/bin/roslyn/VBCSCompiler.exe
+#	new file:   pb/bin/roslyn/VBCSCompiler.exe.config
+#	new file:   pb/bin/roslyn/csc.exe
+#	new file:   pb/bin/roslyn/vbc.exe
+#	new file:   pb/packages.config
+#
+# Changes not staged for commit:
+#	modified:   Calculator (untracked content)
+#
+
